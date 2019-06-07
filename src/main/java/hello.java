@@ -6,4 +6,10 @@ public class hello {
     // 超人第二次修改
 
 
+    //蝙蝠侠 第一次修改
+    //蝙蝠侠 第二次修改
+    String car;
+    String bank;
+
+
 }
